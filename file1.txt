@@ -1,0 +1,6 @@
+This is my first file in GIT project
+Line 1
+Line 2
+
+EOF
+
